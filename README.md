@@ -3,7 +3,7 @@
   Sobre mim:
 
 - 🌱 Apredendo cada vez mais sobre: CSS, Javascript e Ruby
-- 📚 Estudante de Análise de Sistemas na UNIP-RP
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas na UNIP-RP
 - 📮 Contate-me: ericpoloni@gmail.com
 
 

@@ -2,7 +2,7 @@
 
   Sobre mim:
 
-- 🌱 Apredendo cada vez mais sobre: CSS, Javascript e Ruby
+- 🌱 Apredendo cada vez mais sobre: Rails, Ruby e Elixir.
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas na UNIP-RP
 - 📮 Contate-me: ericpoloni@gmail.com
 

@@ -2,7 +2,7 @@
 
   Sobre mim:
 
-- 🌱 Aprendendo cada vez mais sobre: Rails, Ruby e Elixir.
+- 🌱 Aprendendo cada vez mais sobre o mundo Ruby on Rails.
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas na UNIP-RP
 - 📮 Contate-me: ericpoloni@gmail.com
 
@@ -15,7 +15,6 @@
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg"/>
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
 </div>
     

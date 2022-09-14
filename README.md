@@ -6,7 +6,7 @@
 </div>
 
 ## Eric Araujo
-### Olá! Meu nome é Eric Araujo 👋
+### Olá! Bem vindo ao meu perfil GitHub 👋
 
 Sobre mim:
 

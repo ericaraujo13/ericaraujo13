@@ -10,7 +10,7 @@
 
 Sobre mim:
 
-🌱 Aprendendo cada vez mais sobre o mundo Ruby on Rails.<br>
+🌱 Entusiasta do mundo Ruby on Rails.<br>
 📚 Estudante de Análise e Desenvolvimento de Sistemas na UNIP-RP
 ___
 ### Ferramentas e Tecnologias
@@ -25,6 +25,5 @@ ___
 <div align="center">
 <a href="https://github.com/ericaraujo13">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericaraujo13&layout=compact&langs_count=7&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericaraujo13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
   
